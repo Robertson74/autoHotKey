@@ -188,33 +188,33 @@ return
 Tab & f::
     send .
 return
-Shift & m::
-  If GetKeyState("Alt","P")
-    send #{Up}
-  else
-    send M
-return
-Shift & y::
-  If GetKeyState("Alt","P")
-    send #{Left}
-  else
-    send Y
-return
-Shift & u::
-  If GetKeyState("Alt","P")
-    send #{Down}
-  else
-    send U
-return
-Shift & i::
-  If GetKeyState("Alt","P")
-    send #{Up}
-  else
-    send I
-return
-Shift & o::
-  If GetKeyState("Alt","P")
-    send #{Right}
-  else
-    send O
-return
+;Shift & m::
+;  If GetKeyState("Alt","P")
+;    send #{Up}
+;  else
+;    send M
+;return
+;Shift & y::
+;  If GetKeyState("Alt","P")
+;    send #{Left}
+;  else
+;    send Y
+;return
+;Shift & u::
+;  If GetKeyState("Alt","P")
+;    send #{Down}
+;  else
+;    send U
+;return
+;Shift & i::
+;  If GetKeyState("Alt","P")
+;    send #{Up}
+;  else
+;    send I
+;return
+;Shift & o::
+;  If GetKeyState("Alt","P")
+;    send #{Right}
+;  else
+;    send O
+;return
