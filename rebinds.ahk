@@ -5,7 +5,7 @@ Tab & \::
   else
     SetCapsLockState on
 return
-
+;delete this comment
 ;;Mouse Keys
 ;SetMouseDelay, -1  
 ;CoordMode, Mouse,Window
